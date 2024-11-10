@@ -4,9 +4,12 @@
   uses: cloud-maker-ai/github-action-deploy@v1.0.1
   with:
     # Cloud Maker API Token
+    #
     CLOUD_MAKER_TOKEN: 
     # Cloud Maker Pipeline ID to be deployed
+    #
     CLOUD_MAKER_PIPELINE_ID: 
     # Cloud Maker Stage ID to be deployed
+    #
     CLOUD_MAKER_STAGE_ID: 
           
